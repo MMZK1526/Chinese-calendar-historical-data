@@ -29,8 +29,14 @@ executable calendar
     -- Modules included in this executable, other than Main.
     -- other-modules:
 
-    -- LANGUAGE extensions used by modules in this package.
-    -- other-extensions:
+    default-extensions:
+        DeriveAnyClass,
+        DeriveGeneric,
+        DerivingStrategies,
+        DuplicateRecordFields,
+        GeneralisedNewtypeDeriving,
+        InstanceSigs,
+        OverloadedStrings
     build-depends:
         base ^>=4.16.4.0,
         aeson ^>=2.1,
