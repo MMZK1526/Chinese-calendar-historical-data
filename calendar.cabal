@@ -26,6 +26,7 @@ extra-source-files:
 executable calendar
     main-is:          Main.hs
     other-modules:
+        Model.DateCN,
         Model.Dynasty,
         Model.Literal
     default-extensions:
