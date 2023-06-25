@@ -19,7 +19,9 @@ maintainer:         yc4120@ic.ac.uk
 -- A copyright notice.
 -- copyright:
 -- category:
-extra-source-files: CHANGELOG.md
+extra-source-files:
+    CHANGELOG.md
+    data/*.json
 
 executable calendar
     main-is:          Main.hs
