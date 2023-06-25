@@ -1,11 +1,3 @@
-{-# LANGUAGE DeriveAnyClass #-}
-{-# LANGUAGE DeriveGeneric #-}
-{-# LANGUAGE DerivingStrategies #-}
-{-# LANGUAGE GeneralisedNewtypeDeriving #-}
-{-# LANGUAGE DuplicateRecordFields #-}
-{-# LANGUAGE InstanceSigs #-}
-{-# LANGUAGE OverloadedStrings #-}
-
 module Main where
 
 import           Data.Aeson
@@ -19,7 +11,7 @@ main :: IO ()
 main = putStrLn "Hello, Haskell!"
 
 newtype Literal = Literal { unLiteral :: Text }
-  deriving newtype (Eq, FromJSON, ToJSON)
+  deriving newtype (Eq, Ord, FromJSON, ToJSON, FromJSONKey, ToJSONKey)
 
 instance Show Literal where
   show :: Literal -> String
@@ -28,10 +20,6 @@ instance Show Literal where
       showChar ch
         | not (isAscii ch) && isPrint ch = [ch]
         | otherwise                      = init . tail $ show ch
-
-data Dynasties = Dynasties { name :: Literal, emperors :: [Emperor] }
-  deriving stock (Show, Eq, Generic)
-  deriving anyclass (FromJSON, ToJSON)
 
 data Emperor = Emperor { name :: Literal, eras :: [Era] }
   deriving stock (Show, Eq, Generic)
