@@ -221,10 +221,12 @@ instance Show KaanHcie where
   show GniimSiwet = "壬戌"
   show KwiGhui    = "癸亥"
 
-data DateCN d = DateCN { era         :: Literal
-                       , year        :: Int
-                       , yearSuffix  :: Literal
-                       , month       :: MonthCN
-                       , isLeapMonth :: Bool
-                       , day         :: d }
+data DateCN = DateCN { dynasty     :: Literal
+                     , emperor     :: Literal
+                     , era         :: Literal
+                     , year        :: Int
+                     , yearSuffix  :: Literal
+                     , month       :: MonthCN
+                     , isLeapMonth :: Bool
+                     , day         :: DayCN }
   deriving stock (Eq, Ord)
