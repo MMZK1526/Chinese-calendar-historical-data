@@ -1,5 +1,7 @@
 module Model.DateCN where
 
+import           Model.Literal
+
 data MonthCN = HciaengNgiwaht
              | GniNgiwaht
              | SaamNgiwaht
@@ -219,7 +221,9 @@ instance Show KaanHcie where
   show GniimSiwet = "壬戌"
   show KwiGhui    = "癸亥"
 
-data DateCN d = DateCN { year        :: Int
+data DateCN d = DateCN { era         :: Literal
+                       , year        :: Int
+                       , yearSuffix  :: Literal
                        , month       :: MonthCN
                        , isLeapMonth :: Bool
                        , day         :: d }
