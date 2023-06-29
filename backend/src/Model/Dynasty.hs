@@ -18,4 +18,4 @@ data Era = Era { name :: Literal, index :: Int }
   deriving anyclass (FromJSON, ToJSON)
 
 loadDynasty :: IO [Dynasty]
-loadDynasty = BSL.readFile "data/dynasties.json" >>= throwDecode
+loadDynasty = BSL.readFile "../data/dynasties.json" >>= throwDecode
