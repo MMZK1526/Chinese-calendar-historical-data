@@ -45,5 +45,6 @@ executable calendar
         bytestring ^>=0.11,
         containers ^>=0.6,
         text ^>=1.2,
+        transformers ^>=0.5,
     hs-source-dirs:   src
     default-language: Haskell2010

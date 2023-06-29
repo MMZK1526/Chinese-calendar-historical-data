@@ -13,9 +13,9 @@ data Emperor = Emperor { name :: Literal, eras :: [Era] }
   deriving stock (Show, Eq, Generic)
   deriving anyclass (FromJSON, ToJSON)
 
-newtype Era = Era { name :: Literal }
+data Era = Era { name :: Literal, index :: Int }
   deriving stock (Show, Eq, Generic)
   deriving anyclass (FromJSON, ToJSON)
 
 loadDynasty :: IO [Dynasty]
-loadDynasty = throwDecode <$> BSL.readFile "data/dynasties.json"
+loadDynasty = BSL.readFile "data/dynasties.json" >>= throwDecode
