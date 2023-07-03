@@ -6,7 +6,7 @@ import           Data.Char
 import           Data.Text (Text)
 import qualified Data.Text as T
 
--- | A "Text" wrapper that prints Unicode characters as-is.
+-- | 包装@Text@，用于保留ASCII字符的可打印性。
 newtype Literal = Literal { unLiteral :: Text }
   deriving newtype (Eq, Ord, FromJSON, ToJSON, FromJSONKey, ToJSONKey)
 
