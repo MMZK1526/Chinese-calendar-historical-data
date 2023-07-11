@@ -1,7 +1,9 @@
 [
     {
         "dynasty": "西漢",
-        "emperors": [],
+        "emperors": [
+            "孺子嬰"
+        ],
         "eraId": "era_01h530atrfezg9q94196xfnj9h",
         "name": "元始",
         "norm": "平帝"
@@ -57,14 +59,18 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "明帝"
+        ],
         "eraId": "era_01h530atrge2f9s1jmc3swknxm",
         "name": "建武中元",
         "norm": "光武帝"
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "章帝"
+        ],
         "eraId": "era_01h530atrge2fa5d3nr00axq0v",
         "name": "永平",
         "norm": "明帝"
@@ -85,7 +91,9 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "和帝"
+        ],
         "eraId": "era_01h530atrge2fax6jm7m3k5v1j",
         "name": "章和",
         "norm": "章帝"
@@ -99,14 +107,18 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "殤帝"
+        ],
         "eraId": "era_01h530atrge2fbb53pvxwfz8d4",
         "name": "元興",
         "norm": "和帝"
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "安帝"
+        ],
         "eraId": "era_01h530atrge2fbp11zvh0cwqfg",
         "name": "延平",
         "norm": "殤帝"
@@ -141,17 +153,13 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "北鄉侯",
+            "順帝"
+        ],
         "eraId": "era_01h530atrge2frvgeghhdan391",
         "name": "延光",
         "norm": "安帝"
-    },
-    {
-        "dynasty": "東漢",
-        "emperors": [],
-        "eraId": "era_01h530atrge2fs2kt9q2v17b6r",
-        "name": "延光",
-        "norm": "北鄉侯"
     },
     {
         "dynasty": "東漢",
@@ -183,21 +191,27 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "沖帝"
+        ],
         "eraId": "era_01h530atrge2ftb47hd5e8spws",
         "name": "建康",
         "norm": "順帝"
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "質帝"
+        ],
         "eraId": "era_01h530atrge2ftkdd5vzpf3s6e",
         "name": "永嘉",
         "norm": "沖帝"
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "桓帝"
+        ],
         "eraId": "era_01h530atrge2ftve8qh45ygv52",
         "name": "本初",
         "norm": "質帝"
@@ -253,7 +267,9 @@
     },
     {
         "dynasty": "東漢",
-        "emperors": [],
+        "emperors": [
+            "桓帝"
+        ],
         "eraId": "era_01h530atrge2g8rpwh5ncpbpdy",
         "name": "建寧",
         "norm": "靈帝"
