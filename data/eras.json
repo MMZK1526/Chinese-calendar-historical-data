@@ -1,0 +1,3313 @@
+[
+    {
+        "dynasty": "西漢",
+        "emperors": [],
+        "eraId": "era_01h530atrfezg9q94196xfnj9h",
+        "name": "元始",
+        "norm": "平帝"
+    },
+    {
+        "dynasty": "西漢",
+        "emperors": [],
+        "eraId": "era_01h530atrfezg9tvjr2c1whvfr",
+        "name": "居攝",
+        "norm": "孺子嬰"
+    },
+    {
+        "dynasty": "西漢",
+        "emperors": [],
+        "eraId": "era_01h530atrfezga2gp2fgpenrhh",
+        "name": "初始",
+        "norm": "孺子嬰"
+    },
+    {
+        "dynasty": "新",
+        "emperors": [],
+        "eraId": "era_01h530atrfezgabmry5fbhgt0e",
+        "name": "始建國",
+        "norm": "王莽"
+    },
+    {
+        "dynasty": "新",
+        "emperors": [],
+        "eraId": "era_01h530atrfezgakbbdv63qjkf9",
+        "name": "天鳳",
+        "norm": "王莽"
+    },
+    {
+        "dynasty": "新",
+        "emperors": [],
+        "eraId": "era_01h530atrfezgav0enc8ahxqdz",
+        "name": "地皇",
+        "norm": "王莽"
+    },
+    {
+        "dynasty": "更始朝",
+        "emperors": [],
+        "eraId": "era_01h530atrge2f9cefayz3bns8k",
+        "name": "更始",
+        "norm": "淮陽王"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2f9p64w9hhhw4d2",
+        "name": "建武",
+        "norm": "光武帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2f9s1jmc3swknxm",
+        "name": "建武中元",
+        "norm": "光武帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fa5d3nr00axq0v",
+        "name": "永平",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2faewnkns8kve86",
+        "name": "建初",
+        "norm": "章帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fakj7d2147s9aj",
+        "name": "元和",
+        "norm": "章帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fax6jm7m3k5v1j",
+        "name": "章和",
+        "norm": "章帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fb569p7eztjcwx",
+        "name": "永元",
+        "norm": "和帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fbb53pvxwfz8d4",
+        "name": "元興",
+        "norm": "和帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fbp11zvh0cwqfg",
+        "name": "延平",
+        "norm": "殤帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fbt6cpb08rknvn",
+        "name": "永初",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fr5w8fpd9jva0k",
+        "name": "元初",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fr97ws5g22ay8d",
+        "name": "永寧",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2frpt6436svq3db",
+        "name": "建光",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2frvgeghhdan391",
+        "name": "延光",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fs2kt9q2v17b6r",
+        "name": "延光",
+        "norm": "北鄉侯"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fset3gy62wj0b2",
+        "name": "永建",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fsh082n560pc55",
+        "name": "陽嘉",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fsxvngn3ta93t6",
+        "name": "永和",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ft3ewtfwbddvjz",
+        "name": "漢安",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ftb47hd5e8spws",
+        "name": "建康",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ftkdd5vzpf3s6e",
+        "name": "永嘉",
+        "norm": "沖帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ftve8qh45ygv52",
+        "name": "本初",
+        "norm": "質帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fv2ad3224dxjat",
+        "name": "建和",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fvdrpkeqn46bbq",
+        "name": "和平",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fvqxqdvfv3xhbq",
+        "name": "元嘉",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2fvyx37j1tm9tx0",
+        "name": "永興",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g85ze0t5sr67wc",
+        "name": "永壽",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g8anzmj8fxrfqc",
+        "name": "延熹",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g8nea314w24vky",
+        "name": "永康",
+        "norm": "桓帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g8rpwh5ncpbpdy",
+        "name": "建寧",
+        "norm": "靈帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g97hy8v6kg6dvx",
+        "name": "熹平",
+        "norm": "靈帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g9cwzstwn8bztz",
+        "name": "光和",
+        "norm": "靈帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g9q03nffkr4qq9",
+        "name": "中平",
+        "norm": "靈帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2g9xbys9ywnc3th",
+        "name": "光熹",
+        "norm": "少帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ga2ykvtx5b74kp",
+        "name": "昭寧",
+        "norm": "少帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gabrh4zcdvv4dr",
+        "name": "永漢",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gamkzqn6wc4xac",
+        "name": "中平",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gax1ptv6mz68m3",
+        "name": "初平",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gb589d73mc289e",
+        "name": "興平",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gba9qztp61kf4a",
+        "name": "建安",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "東漢",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gbg3qe87jwkvx6",
+        "name": "延康",
+        "norm": "獻帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gbxpyr1jwyzqcn",
+        "name": "黃初",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gr0mjg1spxed6j",
+        "name": "太和",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2grcfetajbzentp",
+        "name": "青龍",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2grjkdcapjcy04g",
+        "name": "景初",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2grx970fk8drx9k",
+        "name": "正始",
+        "norm": "少帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gs35ntse18x3c3",
+        "name": "嘉平",
+        "norm": "少帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gse3tgxghrc6dc",
+        "name": "正元",
+        "norm": "高貴鄉公"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gskdfh95ny9fnq",
+        "name": "甘露",
+        "norm": "高貴鄉公"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gsw0zdpw5jfk5c",
+        "name": "景元",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "魏",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gt6rp5e48bj8kc",
+        "name": "咸熙",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "蜀",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gtd7nwkgjf6zrx",
+        "name": "章武",
+        "norm": "昭烈帝"
+    },
+    {
+        "dynasty": "蜀",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gtmy8sr39pgxd3",
+        "name": "建興",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "蜀",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gttmzgtqb3a974",
+        "name": "延熙",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "蜀",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gv415jvaazg1p2",
+        "name": "景耀",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "蜀",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gv9tnbkvdkstyn",
+        "name": "炎興",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gvqr5893hc203d",
+        "name": "黃武",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2gvy7fydc0fpnan",
+        "name": "黃龍",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h86vvmda3x6dfx",
+        "name": "嘉禾",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h8cyyyebrvcpt7",
+        "name": "赤烏",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h8m8ztcj75k8pd",
+        "name": "太元",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h8w6an5x4xjy2c",
+        "name": "神鳳",
+        "norm": "大帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h937pfd140qvpq",
+        "name": "建興",
+        "norm": "會稽王"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h9amnvtwred0gt",
+        "name": "五鳳",
+        "norm": "會稽王"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h9m5x2jwns6zpb",
+        "name": "太平",
+        "norm": "會稽王"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2h9t7knfnq11179",
+        "name": "永安",
+        "norm": "景帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ha03q14sv0y0xd",
+        "name": "元興",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2ha9r1cdsfdy2ep",
+        "name": "甘露",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hanysahg27q9ye",
+        "name": "寶鼎",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hats3fw8jpnwde",
+        "name": "建衡",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hb64t47rpgsthq",
+        "name": "鳳凰",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hb99rvp4emyfe6",
+        "name": "天冊",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hbhpbwfh7kzf3s",
+        "name": "天璽",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "吳",
+        "emperors": [],
+        "eraId": "era_01h530atrge2hbwwzxts5bczc4",
+        "name": "天紀",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe91vxfxgtxp2q3kv",
+        "name": "泰始",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe9280fr8pk3wgpjb",
+        "name": "咸寧",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe928drzp48zgmre0",
+        "name": "太康",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe928pf7n9m1sryzn",
+        "name": "太熙",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe928xfc5smvvbann",
+        "name": "永熙",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe9297qq3tqkmab7j",
+        "name": "永平",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe929a2tb0yq3nzqy",
+        "name": "元康",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe929m5f9pe6wwrva",
+        "name": "永康",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe929scfd9ag8ebf1",
+        "name": "永寧",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92a51cf54924c44",
+        "name": "太安",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92a9b8rbmhm0ypr",
+        "name": "永安",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92ag8p8e7yqbfvz",
+        "name": "建武",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92ar5n4fdamxy0x",
+        "name": "永興",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92b2vvmpzqp9nyy",
+        "name": "光熙",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92bdnrtjf5a6gje",
+        "name": "永嘉",
+        "norm": "懷帝"
+    },
+    {
+        "dynasty": "西晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92bkfevtcyqzc09",
+        "name": "建興",
+        "norm": "愍帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92bsxwd83n8xk4a",
+        "name": "建武",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92r4wnm7sa2bn57",
+        "name": "太興",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92rft64fkqw3wq4",
+        "name": "永昌",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92rh1awfm80hr8r",
+        "name": "太寧",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92rrqkzncpnw9y8",
+        "name": "咸和",
+        "norm": "成帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92s3cv2419yt9em",
+        "name": "咸康",
+        "norm": "成帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92sc9hztf0jbw50",
+        "name": "建元",
+        "norm": "康帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92sp0ah1nnf9pgh",
+        "name": "永和",
+        "norm": "穆帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92st20yfgqx0vhx",
+        "name": "升平",
+        "norm": "穆帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92t43rmnbnnzmgs",
+        "name": "隆和",
+        "norm": "哀帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92tftcarqem6gbj",
+        "name": "興寧",
+        "norm": "哀帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92tqj9hf8ktyg3y",
+        "name": "太和",
+        "norm": "海西公"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92twbav2rt0g091",
+        "name": "咸安",
+        "norm": "簡文帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92v6cysky2w99dp",
+        "name": "寧康",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92vem0jkf1z7a01",
+        "name": "太元",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92vjj6nz23m6shg",
+        "name": "隆安",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe92vr6h26as63j87",
+        "name": "元興",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe9385hehkd6dk93d",
+        "name": "義熙",
+        "norm": "安帝"
+    },
+    {
+        "dynasty": "東晉",
+        "emperors": [],
+        "eraId": "era_01h530atrhe938dmd8ck0k03k2",
+        "name": "元熙",
+        "norm": "恭帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe938gt3gqdmse5vy",
+        "name": "永初",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe938tc0hcgqvcv2v",
+        "name": "景平",
+        "norm": "營陽王"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe939564vqexhwa74",
+        "name": "元嘉",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe9398x8sbanndsv9",
+        "name": "孝建",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe939prt1yjxxvqm9",
+        "name": "大明",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe939zvxes9bj5pak",
+        "name": "永光",
+        "norm": "前廢帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93a7q76ecw8qfgw",
+        "name": "景和",
+        "norm": "前廢帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93a9dpya9gsm284",
+        "name": "泰始",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93agfcj11efjsa7",
+        "name": "泰豫",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93awn80ntb9jvsq",
+        "name": "元徽",
+        "norm": "蒼梧王"
+    },
+    {
+        "dynasty": "前宋",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93b350yn7be06a1",
+        "name": "昇明",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93b844jt2wsdzrm",
+        "name": "建元",
+        "norm": "高帝"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93bqk2g33va73pn",
+        "name": "永明",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93bt279j3dcshwd",
+        "name": "隆昌",
+        "norm": "鬱林王"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93r0vybj1wh749m",
+        "name": "延興",
+        "norm": "海陵王"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93rddgb334tcbmz",
+        "name": "建武",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93rkh4ty57qjqnd",
+        "name": "永泰",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93rz31h7vb0pqr0",
+        "name": "永元",
+        "norm": "東昏侯"
+    },
+    {
+        "dynasty": "南齊",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93s7g83mya3x8eb",
+        "name": "中興",
+        "norm": "和帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93saer9kbmpap3c",
+        "name": "天監",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93spq5q3mjedk0d",
+        "name": "普通",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93srdytx9fjwkh8",
+        "name": "大通",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93t7m005eah3ppk",
+        "name": "中大通",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93te5pwjxfm6nr2",
+        "name": "大同",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93tppp2tw35a68n",
+        "name": "中大同",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93tt6c3rwr2tt9j",
+        "name": "太清",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93v31czakdeevw9",
+        "name": "大寶",
+        "norm": "簡文帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93v9k7s1mamqe3a",
+        "name": "天正",
+        "norm": "豫章王"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93vjj8ba8fnwva6",
+        "name": "承聖",
+        "norm": "元帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrhe93vye7fwvcmpnqh",
+        "name": "天成",
+        "norm": "貞陽侯"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdbv4jgc1eqaq81",
+        "name": "紹泰",
+        "norm": "敬帝"
+    },
+    {
+        "dynasty": "南梁",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdr5hwssy9ccm0x",
+        "name": "太平",
+        "norm": "敬帝"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdr98hzkfkbjyef",
+        "name": "永定",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdrh2bhngb7dc4r",
+        "name": "天嘉",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdrssc5p5jgb9k9",
+        "name": "天康",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebds6tnvbhadgbb1",
+        "name": "光大",
+        "norm": "臨海王"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdsb27cvbsj0m4e",
+        "name": "太建",
+        "norm": "宣帝"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdsk7vrh0ef7dxw",
+        "name": "至德",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "陳",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdswnxnv830b7tg",
+        "name": "禎明",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdt5qxt5gy6s0e8",
+        "name": "登國",
+        "norm": "道武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdt9fg7x7mg0x3m",
+        "name": "皇始",
+        "norm": "道武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdtgz39pted2a9x",
+        "name": "天興",
+        "norm": "道武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdtzfgex0mvd8t7",
+        "name": "天賜",
+        "norm": "道武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdv1rhwtpm83hta",
+        "name": "永興",
+        "norm": "明元帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdvb3zearbthf2m",
+        "name": "神瑞",
+        "norm": "明元帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdvj6yqqpk4q1hp",
+        "name": "泰常",
+        "norm": "明元帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebdvtce8cd2n6xpb",
+        "name": "始光",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe87ba869phtgbp",
+        "name": "神䴥",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe895rm416r268k",
+        "name": "延和",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe8jwc47m16e1ha",
+        "name": "太延",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe8zmc0r41vy8gc",
+        "name": "太平真君",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe91dcnj1nhy8j8",
+        "name": "正平",
+        "norm": "太武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe994yb8krz1xy9",
+        "name": "承平",
+        "norm": "南安王"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe9qxfy2z83t24d",
+        "name": "興安",
+        "norm": "文成帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebe9wwg674hem4cs",
+        "name": "興光",
+        "norm": "文成帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebea5qzxp0bnk6cm",
+        "name": "太安",
+        "norm": "文成帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebeab7r0gm0jv22s",
+        "name": "和平",
+        "norm": "文成帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebean4as1k2jqttb",
+        "name": "天安",
+        "norm": "獻文帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebearcc02phsg8aj",
+        "name": "皇興",
+        "norm": "獻文帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebeb7jgh04dnrc5f",
+        "name": "延興",
+        "norm": "孝文帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebebawttmk1mq2m1",
+        "name": "承明",
+        "norm": "孝文帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebebmygra60gstg0",
+        "name": "太和",
+        "norm": "孝文帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebebx8a9xyzjp3k5",
+        "name": "景明",
+        "norm": "宣武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjeber0spnt9k5ew3h",
+        "name": "正始",
+        "norm": "宣武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjeberaf74vp8r2trb",
+        "name": "永平",
+        "norm": "宣武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjeberkht18zm4g6bb",
+        "name": "延昌",
+        "norm": "宣武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjeberwxzsw7w3jjrm",
+        "name": "熙平",
+        "norm": "孝明帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebes36shsd0ahdby",
+        "name": "神龜",
+        "norm": "孝明帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebeseebzq5sgm3jq",
+        "name": "正光",
+        "norm": "孝明帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebesk614j0gysyby",
+        "name": "孝昌",
+        "norm": "孝明帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebessphhd6cjxgyn",
+        "name": "武泰",
+        "norm": "孝明帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebet46tnqzcc2crq",
+        "name": "建義",
+        "norm": "孝莊帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebeteefwsnap0j0r",
+        "name": "永安",
+        "norm": "孝莊帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebetpbz9dgcx0f2p",
+        "name": "建明",
+        "norm": "長廣王"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebetzj343d7j9md5",
+        "name": "普泰",
+        "norm": "節閔帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebev2wqz4b3d1x09",
+        "name": "中興",
+        "norm": "安定王"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebevesm025sq9gs1",
+        "name": "太昌",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebevmqftz97dqamh",
+        "name": "永興",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "北魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebevrbay9zem3bde",
+        "name": "永熙",
+        "norm": "孝武帝"
+    },
+    {
+        "dynasty": "西魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf840n9fy60ng82",
+        "name": "大統",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "東魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf88bm9v88zar9d",
+        "name": "天平",
+        "norm": "孝靜帝"
+    },
+    {
+        "dynasty": "東魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf8n637gawdqw9w",
+        "name": "元象",
+        "norm": "孝靜帝"
+    },
+    {
+        "dynasty": "東魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf8yvmzyxywqg5k",
+        "name": "興和",
+        "norm": "孝靜帝"
+    },
+    {
+        "dynasty": "東魏",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf96tc0bdtta3yh",
+        "name": "武定",
+        "norm": "孝靜帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf9agdbstgqnqr7",
+        "name": "天保",
+        "norm": "文宣帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf9jjwtpz2e4w0p",
+        "name": "乾明",
+        "norm": "廢帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebf9x96n5h0x3257",
+        "name": "皇建",
+        "norm": "孝昭帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfa2wg81th8mnyd",
+        "name": "大寧",
+        "norm": "武成帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfaerzrh25rtddr",
+        "name": "河清",
+        "norm": "武成帝"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfanvv8h9m6bx5t",
+        "name": "天統",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfasdpcq853hxd4",
+        "name": "武平",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfb67e9wp1k897c",
+        "name": "隆化",
+        "norm": "後主"
+    },
+    {
+        "dynasty": "北齊",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfbbe68en0zw478",
+        "name": "承光",
+        "norm": "幼主"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfbjgs0vebdfk1q",
+        "name": "武成",
+        "norm": "明帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfbtsyxekrpxvdr",
+        "name": "保定",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfr6hxv5x6eke0r",
+        "name": "天和",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfrcq03dwpqhfps",
+        "name": "建德",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfrhtjt8jj4nyn4",
+        "name": "宣政",
+        "norm": "武帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrjebfrzt7xhc84afr4",
+        "name": "大成",
+        "norm": "宣帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f867sms5c7c0kd",
+        "name": "大象",
+        "norm": "靜帝"
+    },
+    {
+        "dynasty": "北周",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f89dynmmgann9v",
+        "name": "大定",
+        "norm": "靜帝"
+    },
+    {
+        "dynasty": "隋",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f8q8000cpheh7k",
+        "name": "開皇",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "隋",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f8zv8tqds84pgs",
+        "name": "仁壽",
+        "norm": "文帝"
+    },
+    {
+        "dynasty": "隋",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f946p15yw5a1db",
+        "name": "大業",
+        "norm": "煬帝"
+    },
+    {
+        "dynasty": "隋",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f9ec26ev9cv0r7",
+        "name": "義寧",
+        "norm": "恭帝"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f9k35hws3x8qj3",
+        "name": "武德",
+        "norm": "高祖"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5f9v08m4fmnakrq",
+        "name": "貞觀",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fa24tqshac541j",
+        "name": "永徽",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fa80vcdmexpd3a",
+        "name": "顯慶",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fahteskbeqfp1r",
+        "name": "龍朔",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5faxqzrmzjaq9rj",
+        "name": "麟德",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fb0b2sebhtk1ja",
+        "name": "乾封",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fbedmf27h6487c",
+        "name": "總章",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fbmm98r1x7710s",
+        "name": "咸亨",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fbva9kh9x68bvt",
+        "name": "上元",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fr1cq4x8ervcgz",
+        "name": "儀鳳",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5frb5r3dce2yv7w",
+        "name": "調露",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5frpqs2rsh2abb1",
+        "name": "永隆",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5frwc0nngh19d9y",
+        "name": "開耀",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fs21z34f4w0tzw",
+        "name": "永淳",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fs80kzjvkqw4vh",
+        "name": "弘道",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fsh79yrh5n810w",
+        "name": "嗣聖",
+        "norm": "中宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fsrn0cd78fy09v",
+        "name": "神龍",
+        "norm": "中宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ft3nv58dtmnw35",
+        "name": "景龍",
+        "norm": "中宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ftcyr76rsxj4mv",
+        "name": "文明",
+        "norm": "睿宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ftmy453w5ckjwr",
+        "name": "景雲",
+        "norm": "睿宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ftt852mbr8a8jy",
+        "name": "太極",
+        "norm": "睿宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fv5zp9807pnww5",
+        "name": "延和",
+        "norm": "睿宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fvas9f4x86httw",
+        "name": "光宅",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fvpf24prs5yes1",
+        "name": "垂拱",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5fvyk05kpr62p4g",
+        "name": "永昌",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g85jz88ehkdbr7",
+        "name": "載初",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g8bcb5q2qkrrbz",
+        "name": "天授",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g8gpdkwaa4tv1h",
+        "name": "如意",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g8tnnkj2vkzpwv",
+        "name": "長壽",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g95qvb8xjr0tk1",
+        "name": "延載",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g9erd3v0cwcf50",
+        "name": "證聖",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g9pzptcmm4wjp0",
+        "name": "天冊萬歲",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5g9y98hce2ey3y7",
+        "name": "萬歲登封",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ga5kd4s26bk2fn",
+        "name": "萬歲通天",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gac6fypm4nygzq",
+        "name": "神功",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gah7rz0kvk3v62",
+        "name": "聖曆",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gavatzds9c1wds",
+        "name": "久視",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gb15tj92fmxzvj",
+        "name": "大足",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gbagcdkcshpr3e",
+        "name": "長安",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gbpb54aczb25tb",
+        "name": "神龍",
+        "norm": "武后"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gbsqak3zj7vg1a",
+        "name": "唐隆",
+        "norm": "殤帝"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gr72q8p02mef93",
+        "name": "先天",
+        "norm": "玄宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5grenk8vb0w3w51",
+        "name": "開元",
+        "norm": "玄宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5grgxpd3k6a8k26",
+        "name": "天寶",
+        "norm": "玄宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5grxvq49vmqs2hk",
+        "name": "至德",
+        "norm": "肅宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gs2n5n1hj1qeg9",
+        "name": "乾元",
+        "norm": "肅宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gscr8a1xcfs8zv",
+        "name": "上元",
+        "norm": "肅宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gsntmxrhya4ys0",
+        "name": "",
+        "norm": "肅宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gsv83evh45rf55",
+        "name": "寶應",
+        "norm": "肅宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gt3pvfg5b7fzpv",
+        "name": "廣德",
+        "norm": "代宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gtak4376q85nyq",
+        "name": "永泰",
+        "norm": "代宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gtp6eq0dsgtyjh",
+        "name": "大曆",
+        "norm": "代宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gttsxnde4sk3jr",
+        "name": "建中",
+        "norm": "德宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gv0mwr38z673s0",
+        "name": "興元",
+        "norm": "德宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gvd3wmm9tncsf7",
+        "name": "貞元",
+        "norm": "德宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gvkwtzq0kfyf1c",
+        "name": "永貞",
+        "norm": "順宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5gvswnagn8e49tc",
+        "name": "元和",
+        "norm": "憲宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h80kksyp1jqe4v",
+        "name": "長慶",
+        "norm": "穆宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h899prp5rhp9ns",
+        "name": "寶曆",
+        "norm": "敬宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h8mtcwy1x5a6yt",
+        "name": "太和",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h8xhwe9w6ammgq",
+        "name": "開成",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h92r69ffzq4rcn",
+        "name": "會昌",
+        "norm": "武宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h98d2kp4n4c4fw",
+        "name": "大中",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h9qd6976y190kh",
+        "name": "咸通",
+        "norm": "懿宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5h9s54zh6jqhes6",
+        "name": "乾符",
+        "norm": "僖宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ha459q544z09n6",
+        "name": "廣明",
+        "norm": "僖宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5ha9pzkg0e51rjy",
+        "name": "中和",
+        "norm": "僖宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5haqmm0453k7zwa",
+        "name": "光啟",
+        "norm": "僖宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrke5havzzxf8et228p",
+        "name": "文德",
+        "norm": "僖宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23snph2w123yt21",
+        "name": "龍紀",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23sr4ned1bqhnc6",
+        "name": "大順",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23t48rapsaj62hh",
+        "name": "景福",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23t93hswq5gn9pb",
+        "name": "乾寧",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23tnt5m33778xc1",
+        "name": "光化",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23trkyzxm5k17xq",
+        "name": "天復",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23v4sgqcenzvzfx",
+        "name": "天祐",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme23vb1z9yrhesr19",
+        "name": "天祐",
+        "norm": "哀帝"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme23vgwy4cjebvq19",
+        "name": "開平",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme23vtd673z6vht02",
+        "name": "乾化",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme2485kgtjpbgxhxd",
+        "name": "鳳曆",
+        "norm": "郢王"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme248bgc6mdvyxxaz",
+        "name": "乾化",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme248kngr5bev42h0",
+        "name": "貞明",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "後梁",
+        "emperors": [],
+        "eraId": "era_01h530atrme248ythf95rpdr95",
+        "name": "龍德",
+        "norm": "末帝"
+    },
+    {
+        "dynasty": "後唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme2496mgjc6xtqe2f",
+        "name": "同光",
+        "norm": "莊宗"
+    },
+    {
+        "dynasty": "後唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme249bk1pazpd636h",
+        "name": "天成",
+        "norm": "明宗"
+    },
+    {
+        "dynasty": "後唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme249maa18q89f49b",
+        "name": "長興",
+        "norm": "明宗"
+    },
+    {
+        "dynasty": "後唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme249vcmb2db88fc9",
+        "name": "應順",
+        "norm": "閔帝"
+    },
+    {
+        "dynasty": "後唐",
+        "emperors": [],
+        "eraId": "era_01h530atrme24a19trfrmk4xg0",
+        "name": "清泰",
+        "norm": "廢帝"
+    },
+    {
+        "dynasty": "後晉",
+        "emperors": [],
+        "eraId": "era_01h530atrme24ac2mdhy7r8qce",
+        "name": "天福",
+        "norm": "高祖"
+    },
+    {
+        "dynasty": "後晉",
+        "emperors": [],
+        "eraId": "era_01h530atrme24aj5ftdfw4hg83",
+        "name": "天福",
+        "norm": "出帝"
+    },
+    {
+        "dynasty": "後晉",
+        "emperors": [],
+        "eraId": "era_01h530atrme24awrfds2b1g9m7",
+        "name": "開運",
+        "norm": "出帝"
+    },
+    {
+        "dynasty": "後漢",
+        "emperors": [],
+        "eraId": "era_01h530atrme24b24bmpzst9xxc",
+        "name": "天福",
+        "norm": "高祖"
+    },
+    {
+        "dynasty": "後漢",
+        "emperors": [],
+        "eraId": "era_01h530atrme24bakdkxw13srms",
+        "name": "乾祐",
+        "norm": "高祖"
+    },
+    {
+        "dynasty": "後漢",
+        "emperors": [],
+        "eraId": "era_01h530atrme24bqz5bqybp6fc2",
+        "name": "乾祐",
+        "norm": "隱帝"
+    },
+    {
+        "dynasty": "後周",
+        "emperors": [],
+        "eraId": "era_01h530atrme24brbp3e5kfceb4",
+        "name": "廣順",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "後周",
+        "emperors": [],
+        "eraId": "era_01h530atrme24r4pzcxzh42f46",
+        "name": "顯德",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "後周",
+        "emperors": [],
+        "eraId": "era_01h530atrme24rf5bjv7p5eb0d",
+        "name": "顯德",
+        "norm": "世宗"
+    },
+    {
+        "dynasty": "後周",
+        "emperors": [],
+        "eraId": "era_01h530atrme24rgta6wy4ht9ag",
+        "name": "顯德",
+        "norm": "恭帝"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24ryty86ps8v8yg",
+        "name": "建隆",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24s53k6vb8ty6pj",
+        "name": "乾德",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24sb026s7t5aw3e",
+        "name": "開寶",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24sm7nxky0y029r",
+        "name": "太平興國",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24sxnzjrnb930wg",
+        "name": "雍熙",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24t2ghcqqjn6x5r",
+        "name": "端拱",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24tb9751vwfkttj",
+        "name": "淳化",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24th6tw5retb512",
+        "name": "至道",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24ty1ccprv370x4",
+        "name": "咸平",
+        "norm": "真宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24v6h0p2ffdrdh4",
+        "name": "景德",
+        "norm": "真宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24v9tv5z3z6rynh",
+        "name": "大中祥符",
+        "norm": "真宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24vpks0bwktr3ww",
+        "name": "天禧",
+        "norm": "真宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme24vrqqev4qhefnx",
+        "name": "乾興",
+        "norm": "真宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme2584611fdw756m7",
+        "name": "天聖",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme258frmtwb8bje2f",
+        "name": "明道",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme258qesc65frx2fe",
+        "name": "景祐",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme258vbs2ms932jn0",
+        "name": "寶元",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme2595pafsz3gs54z",
+        "name": "康定",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme259eytwycex0337",
+        "name": "慶曆",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme259mhz3p69kx0z5",
+        "name": "皇祐",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme259tc6mx6q8trqm",
+        "name": "至和",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25a42sww0tbyh59",
+        "name": "嘉祐",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25ab1zhenjk8v73",
+        "name": "治平",
+        "norm": "英宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25akjmjpm61kr4j",
+        "name": "熙寧",
+        "norm": "神宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25axq4yvfjv70cb",
+        "name": "元豐",
+        "norm": "神宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25b6zgzjjem8b0a",
+        "name": "元祐",
+        "norm": "哲宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25bckd7ymprpf67",
+        "name": "紹聖",
+        "norm": "哲宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25bngjjtq67jbs8",
+        "name": "元符",
+        "norm": "哲宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25bx36fxjwg2nfx",
+        "name": "建中靖國",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25r2tt715gcs497",
+        "name": "崇寧",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25rdvpprbaavn5h",
+        "name": "大觀",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25rhtne3567gqey",
+        "name": "政和",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25rxgb4swxkdszx",
+        "name": "重和",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25s7hpd6km2pp0a",
+        "name": "宣和",
+        "norm": "徽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25sbszq691js245",
+        "name": "靖康",
+        "norm": "欽宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25sj01gch4x79re",
+        "name": "建炎",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25syk9pgttvnkhk",
+        "name": "紹興",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25t12bbstm1reb6",
+        "name": "隆興",
+        "norm": "孝宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25tfn2dfzb2p8rm",
+        "name": "乾道",
+        "norm": "孝宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25tn55xzactdv73",
+        "name": "淳熙",
+        "norm": "孝宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25tv1vwhfpa2y5d",
+        "name": "紹熙",
+        "norm": "光宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25v0fmphywngema",
+        "name": "慶元",
+        "norm": "寧宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25v961f81e6gz28",
+        "name": "嘉泰",
+        "norm": "寧宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25vm9nc3r70bmqv",
+        "name": "開禧",
+        "norm": "寧宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrme25vy8zws3dq8agc",
+        "name": "嘉定",
+        "norm": "寧宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetes9txq7m9mjrr2",
+        "name": "寶慶",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrneteskb0jwqn0ddbh",
+        "name": "紹定",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetessjzg9bsxbceq",
+        "name": "端平",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetet347estqyy0ss",
+        "name": "嘉熙",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetetendgghdgtyd4",
+        "name": "淳祐",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetetjgatef8bgb6d",
+        "name": "寶祐",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetetsv7tx01wgr3d",
+        "name": "開慶",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetev4psdhbk17r9s",
+        "name": "景定",
+        "norm": "理宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetevc1g6jfqj1wx3",
+        "name": "咸淳",
+        "norm": "度宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetevm7nzp8hed3fd",
+        "name": "德祐",
+        "norm": "恭宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetevw9cfkp7rb20x",
+        "name": "景炎",
+        "norm": "端宗"
+    },
+    {
+        "dynasty": "宋",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf879f7z5enpd7f",
+        "name": "祥興",
+        "norm": "昺帝"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf8c1cdc9c7n5hf",
+        "name": "神冊",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf8h081766s4ms8",
+        "name": "天贊",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf8z29cajpw8yt5",
+        "name": "天顯",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf939ew7rav6261",
+        "name": "天顯",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf99vat1372bqr5",
+        "name": "會同",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf9ktrewhdv9hw8",
+        "name": "大同",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetf9w0phwasnbkta",
+        "name": "天祿",
+        "norm": "世宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfa41dt10q8ym8x",
+        "name": "應曆",
+        "norm": "穆宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfacfnc0j374p5j",
+        "name": "保寧",
+        "norm": "景宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfag5ad5zpxej82",
+        "name": "乾亨",
+        "norm": "景宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfay1155e32ep5x",
+        "name": "統和",
+        "norm": "聖宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfb53fg28ztc076",
+        "name": "開泰",
+        "norm": "聖宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfb95etxsnknbp9",
+        "name": "太平",
+        "norm": "聖宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfbkvp8p1j6btbn",
+        "name": "景福",
+        "norm": "興宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfbtsyfatm9wwap",
+        "name": "重熙",
+        "norm": "興宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfr6hqg1mm7hher",
+        "name": "清寧",
+        "norm": "道宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfrejvebf68y473",
+        "name": "咸雍",
+        "norm": "道宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfrp11y4rv4pmwy",
+        "name": "大康",
+        "norm": "道宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfrtszpahcd78t9",
+        "name": "大安",
+        "norm": "道宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfs46pn0b6vpznt",
+        "name": "壽昌",
+        "norm": "道宗"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfscj6r9ym6y0z9",
+        "name": "乾統",
+        "norm": "天祚帝"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfsjtp8eb0ghxp2",
+        "name": "天慶",
+        "norm": "天祚帝"
+    },
+    {
+        "dynasty": "遼",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfstqf64zcby828",
+        "name": "保大",
+        "norm": "天祚帝"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetft03a120dvfdph",
+        "name": "收國",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetftdv9fqaka98fd",
+        "name": "天輔",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetftmvrev5rse8p6",
+        "name": "天會",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetftwkcbcanyrtaz",
+        "name": "天會",
+        "norm": "熙宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfv70egxhm6f74j",
+        "name": "天眷",
+        "norm": "熙宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfvfw8398at7hhq",
+        "name": "皇統",
+        "norm": "熙宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfvg1j9mk6k6hep",
+        "name": "天德",
+        "norm": "海陵王"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetfvzm53p6zjzx24",
+        "name": "貞元",
+        "norm": "海陵王"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg85x0x21nwd08y",
+        "name": "正隆",
+        "norm": "海陵王"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg8edaac5r6ty95",
+        "name": "大定",
+        "norm": "世宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg8mhw9yhdmy0q6",
+        "name": "明昌",
+        "norm": "章宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg8y63hxpbm2c6y",
+        "name": "承安",
+        "norm": "章宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg97z51xddwrz8z",
+        "name": "泰和",
+        "norm": "章宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg98dsp3y6m3v5j",
+        "name": "大安",
+        "norm": "衛紹王"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg9pnrn85c1fgee",
+        "name": "至寧",
+        "norm": "衛紹王"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetg9yds9r2ftbwd7",
+        "name": "貞祐",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetga7xk4rbsrksgj",
+        "name": "興定",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgaacz3g3ypbh1d",
+        "name": "元光",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "金",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgamx1bv70h97f7",
+        "name": "正大",
+        "norm": "哀宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgav8b9dffw6tt2",
+        "name": "中統",
+        "norm": "世祖"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgb12rrec8zzf4h",
+        "name": "至元",
+        "norm": "世祖"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgbck574k1wzj9r",
+        "name": "元貞",
+        "norm": "成宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgbj05zrvzas0xm",
+        "name": "大德",
+        "norm": "成宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgbzpc54prvbj11",
+        "name": "至大",
+        "norm": "武宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgr1qzj5fv1rrfh",
+        "name": "皇慶",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgrb7x281tjcq0k",
+        "name": "延祐",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgrghbjfvfejewe",
+        "name": "至治",
+        "norm": "英宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgrr6h9v1rwasm1",
+        "name": "泰定",
+        "norm": "泰定帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgs1ts6et5rdfx1",
+        "name": "致和",
+        "norm": "泰定帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgsccr5ajgp17pm",
+        "name": "天順",
+        "norm": "天順帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgspex2cfb7tcnh",
+        "name": "天曆",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrnetgsrcggdmb02hfp",
+        "name": "天曆",
+        "norm": "明宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6r0xfr91b53tk2",
+        "name": "天曆",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6r9mbsrxbr4szf",
+        "name": "至順",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6rmcrzcfh288yv",
+        "name": "至順",
+        "norm": "寧宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6rt45ry4dp4c51",
+        "name": "元統",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6s3ab25q84f5jc",
+        "name": "至元",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6s8gy3zh4j1k13",
+        "name": "至正",
+        "norm": "順帝"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6shvn33s27zb4m",
+        "name": "宣光",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "元",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6ssz654xfpxq68",
+        "name": "天元",
+        "norm": "孛兒只斤脫古思帖木兒"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6t2ab9r0ykzjjg",
+        "name": "洪武",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6t8ntewhyhc0k0",
+        "name": "建文",
+        "norm": "惠帝"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6th1rk56mmwj2r",
+        "name": "永樂",
+        "norm": "成祖"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6tx9xkvapjyjk4",
+        "name": "洪熙",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6v7vxd65zy369x",
+        "name": "宣德",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6vcw78nvnb6mdv",
+        "name": "正統",
+        "norm": "英宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6vp6648pzremwz",
+        "name": "景泰",
+        "norm": "景帝"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq6vyer66ejed482",
+        "name": "天順",
+        "norm": "英宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq783vgh1vcese5p",
+        "name": "成化",
+        "norm": "憲宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7892rh6abp1fds",
+        "name": "弘治",
+        "norm": "孝宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq78ggxg03der2bd",
+        "name": "正德",
+        "norm": "武宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq78ysfh7q52qqt9",
+        "name": "嘉靖",
+        "norm": "世宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7953nsk5jvfm85",
+        "name": "隆慶",
+        "norm": "穆宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq798w1psqs3zp1r",
+        "name": "萬曆",
+        "norm": "神宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq79k5ppz94qmp5m",
+        "name": "泰昌",
+        "norm": "光宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq79s53envty3qbv",
+        "name": "天啟",
+        "norm": "熹宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7a0tyrzbadnbhb",
+        "name": "崇禎",
+        "norm": "思宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7aa4a9vpfgh3xz",
+        "name": "弘光",
+        "norm": "安宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7ah4xnc1g2fb5k",
+        "name": "隆武",
+        "norm": "紹宗"
+    },
+    {
+        "dynasty": "明",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7azezrf2r858a9",
+        "name": "永曆",
+        "norm": "昭宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7b1qwh0116hzvt",
+        "name": "天命",
+        "norm": "太祖"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7bc6xperrq5br5",
+        "name": "天聰",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7bg5wc24det73q",
+        "name": "崇德",
+        "norm": "太宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7bwj869adf4nxp",
+        "name": "順治",
+        "norm": "世祖"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7r5q2cfk73av7w",
+        "name": "康熙",
+        "norm": "聖祖"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7rcmwyqywg6f9z",
+        "name": "雍正",
+        "norm": "世宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7rm21588hd4qje",
+        "name": "乾隆",
+        "norm": "高宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7rxe7g5pczh6x8",
+        "name": "嘉慶",
+        "norm": "仁宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7s0fvnwp0jegqf",
+        "name": "道光",
+        "norm": "宣宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7s8dp7efd0pmsf",
+        "name": "咸豐",
+        "norm": "文宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7skgrqwbps5mxx",
+        "name": "同治",
+        "norm": "穆宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7st9bmpadc94he",
+        "name": "光緒",
+        "norm": "德宗"
+    },
+    {
+        "dynasty": "清",
+        "emperors": [],
+        "eraId": "era_01h530atrpeq7t76qqf47ap5nw",
+        "name": "宣統",
+        "norm": "遜帝"
+    }
+]
