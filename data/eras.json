@@ -353,7 +353,9 @@
     },
     {
         "dynasty": "魏",
-        "emperors": [],
+        "emperors": [
+            "明帝"
+        ],
         "eraId": "era_01h530atrge2gbxpyr1jwyzqcn",
         "name": "黃初",
         "norm": "文帝"
