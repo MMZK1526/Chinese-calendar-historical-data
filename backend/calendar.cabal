@@ -29,6 +29,7 @@ executable calendar
         Model.DateCN,
         Model.Dynasty,
         Model.Era,
+        Model.Identifiers,
         Model.Literal
     default-extensions:
         BlockArguments,
@@ -42,13 +43,14 @@ executable calendar
         OverloadedRecordDot,
         OverloadedStrings,
         ScopedTypeVariables,
-        TypeApplications
+        TypeApplications,
+        TypeFamilies
     build-depends:
         base,
         aeson ^>=2.1,
         bytestring ^>=0.11,
         containers ^>=0.6,
-        mmzk-typeid ^>=0.1,
+        mmzk-typeid ^>=0.2,
         text ^>=2.0,
         transformers ^>=0.6,
     hs-source-dirs:   src

@@ -6,12 +6,13 @@ import           Data.KindID (KindID)
 import qualified Data.KindID as KID
 import           Data.Word
 import           GHC.Generics
+import           Model.Identifiers
 import           Model.Literal
 
 import           Model.Dynasty hiding (Era)
 
 -- | 年号的唯一标识符，使用TypeID来表示。
-type EraID = KindID "era"
+type EraID = KindID IDEra
 
 genEraID :: IO EraID
 genEraID = KID.genKindID
