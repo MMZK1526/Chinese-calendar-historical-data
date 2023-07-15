@@ -1,4 +1,4 @@
-3[
+[
     {
         "dynasty": "西漢",
         "emperors": [
@@ -714,14 +714,18 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "明帝"
+        ],
         "eraId": "era_01h530atrhe92rft64fkqw3wq4",
         "name": "永昌",
         "norm": "元帝"
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "成帝"
+        ],
         "eraId": "era_01h530atrhe92rh1awfm80hr8r",
         "name": "太寧",
         "norm": "明帝"
@@ -735,14 +739,18 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "康帝"
+        ],
         "eraId": "era_01h530atrhe92s3cv2419yt9em",
         "name": "咸康",
         "norm": "成帝"
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "穆帝"
+        ],
         "eraId": "era_01h530atrhe92sc9hztf0jbw50",
         "name": "建元",
         "norm": "康帝"
@@ -756,7 +764,9 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "哀帝"
+        ],
         "eraId": "era_01h530atrhe92st20yfgqx0vhx",
         "name": "升平",
         "norm": "穆帝"
@@ -770,21 +780,27 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "海西公"
+        ],
         "eraId": "era_01h530atrhe92tftcarqem6gbj",
         "name": "興寧",
         "norm": "哀帝"
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "簡文帝"
+        ],
         "eraId": "era_01h530atrhe92tqj9hf8ktyg3y",
         "name": "太和",
         "norm": "海西公"
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "孝武帝"
+        ],
         "eraId": "era_01h530atrhe92twbav2rt0g091",
         "name": "咸安",
         "norm": "簡文帝"
@@ -798,7 +814,9 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "安帝"
+        ],
         "eraId": "era_01h530atrhe92vem0jkf1z7a01",
         "name": "太元",
         "norm": "孝武帝"
@@ -819,7 +837,9 @@
     },
     {
         "dynasty": "晉",
-        "emperors": [],
+        "emperors": [
+            "恭帝"
+        ],
         "eraId": "era_01h530atrhe9385hehkd6dk93d",
         "name": "義熙",
         "norm": "安帝"
