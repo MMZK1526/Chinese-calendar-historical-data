@@ -1,6 +1,6 @@
 module Model.Identifiers where
 
-import           Data.KindID
+import           Data.KindID.Class
 
 data Identifiers = IDEra
 

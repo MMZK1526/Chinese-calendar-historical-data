@@ -2,8 +2,7 @@ module Model.Era where
 
 import           Control.Monad
 import           Data.Aeson
-import           Data.KindID (KindID)
-import qualified Data.KindID as KID
+import           Data.KindID
 import           Data.Word
 import           GHC.Generics
 import           Model.Identifiers
@@ -15,10 +14,10 @@ import           Model.Dynasty hiding (Era)
 type EraID = KindID IDEra
 
 genEraID :: IO EraID
-genEraID = KID.genKindID
+genEraID = genID @EraID
 
 genEraIDs :: Word16 -> IO [EraID]
-genEraIDs = KID.genKindIDs
+genEraIDs = genIDs @EraID
 
 -- | 年号的基本信息。
 data Era = Era
