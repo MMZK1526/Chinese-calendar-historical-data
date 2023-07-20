@@ -853,7 +853,9 @@
     },
     {
         "dynasty": "前宋",
-        "emperors": [],
+        "emperors": [
+            "營陽王"
+        ],
         "eraId": "era_01h530atrhe938gt3gqdmse5vy",
         "name": "永初",
         "norm": "武帝"
@@ -867,7 +869,9 @@
     },
     {
         "dynasty": "前宋",
-        "emperors": [],
+        "emperors": [
+            "孝武帝"
+        ],
         "eraId": "era_01h530atrhe939564vqexhwa74",
         "name": "元嘉",
         "norm": "文帝"
@@ -881,7 +885,9 @@
     },
     {
         "dynasty": "前宋",
-        "emperors": [],
+        "emperors": [
+            "前廢帝"
+        ],
         "eraId": "era_01h530atrhe939prt1yjxxvqm9",
         "name": "大明",
         "norm": "孝武帝"
@@ -909,7 +915,9 @@
     },
     {
         "dynasty": "前宋",
-        "emperors": [],
+        "emperors": [
+            "蒼梧王"
+        ],
         "eraId": "era_01h530atrhe93agfcj11efjsa7",
         "name": "泰豫",
         "norm": "明帝"
