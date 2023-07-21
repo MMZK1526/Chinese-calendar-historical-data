@@ -938,14 +938,18 @@
     },
     {
         "dynasty": "南齊",
-        "emperors": [],
+        "emperors": [
+            "武帝"
+        ],
         "eraId": "era_01h530atrhe93b844jt2wsdzrm",
         "name": "建元",
         "norm": "高帝"
     },
     {
         "dynasty": "南齊",
-        "emperors": [],
+        "emperors": [
+            "鬱林王"
+        ],
         "eraId": "era_01h530atrhe93bqk2g33va73pn",
         "name": "永明",
         "norm": "武帝"
@@ -973,7 +977,9 @@
     },
     {
         "dynasty": "南齊",
-        "emperors": [],
+        "emperors": [
+            "東昏侯"
+        ],
         "eraId": "era_01h530atrhe93rkh4ty57qjqnd",
         "name": "永泰",
         "norm": "明帝"
