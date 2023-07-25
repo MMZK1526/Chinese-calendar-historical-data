@@ -1063,7 +1063,10 @@
     },
     {
         "dynasty": "南梁",
-        "emperors": [],
+        "emperors": [
+            "閔帝",
+            "敬帝"
+        ],
         "eraId": "era_01h530atrhe93vjj8ba8fnwva6",
         "name": "承聖",
         "norm": "元帝"
@@ -1073,7 +1076,7 @@
         "emperors": [],
         "eraId": "era_01h530atrhe93vye7fwvcmpnqh",
         "name": "天成",
-        "norm": "貞陽侯"
+        "norm": "閔帝"
     },
     {
         "dynasty": "南梁",
