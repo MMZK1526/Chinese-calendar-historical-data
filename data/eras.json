@@ -1042,7 +1042,9 @@
     },
     {
         "dynasty": "南梁",
-        "emperors": [],
+        "emperors": [
+            "簡文帝"
+        ],
         "eraId": "era_01h530atrhe93tt6c3rwr2tt9j",
         "name": "太清",
         "norm": "武帝"
@@ -1094,7 +1096,9 @@
     },
     {
         "dynasty": "陳",
-        "emperors": [],
+        "emperors": [
+            "文帝"
+        ],
         "eraId": "era_01h530atrjebdr98hzkfkbjyef",
         "name": "永定",
         "norm": "武帝"
@@ -1115,7 +1119,9 @@
     },
     {
         "dynasty": "陳",
-        "emperors": [],
+        "emperors": [
+            "宣帝"
+        ],
         "eraId": "era_01h530atrjebds6tnvbhadgbb1",
         "name": "光大",
         "norm": "臨海王"
