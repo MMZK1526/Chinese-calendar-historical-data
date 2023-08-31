@@ -50,7 +50,7 @@ executable calendar
         aeson ^>=2.1,
         bytestring ^>=0.11,
         containers ^>=0.6,
-        mmzk-typeid ^>=0.4,
+        mmzk-typeid ^>=0.5,
         text ^>=2.0,
         transformers ^>=0.6,
     hs-source-dirs:   src
