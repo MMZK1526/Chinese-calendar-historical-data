@@ -1191,7 +1191,9 @@
     },
     {
         "dynasty": "北魏",
-        "emperors": [],
+        "emperors": [
+            "太武帝"
+        ],
         "eraId": "era_01h530atrjebdvj6yqqpk4q1hp",
         "name": "泰常",
         "norm": "明元帝"
@@ -1268,7 +1270,9 @@
     },
     {
         "dynasty": "北魏",
-        "emperors": [],
+        "emperors": [
+            "獻文帝"
+        ],
         "eraId": "era_01h530atrjebeab7r0gm0jv22s",
         "name": "和平",
         "norm": "文成帝"
@@ -1303,7 +1307,9 @@
     },
     {
         "dynasty": "北魏",
-        "emperors": [],
+        "emperors": [
+            "宣武帝"
+        ],
         "eraId": "era_01h530atrjebebmygra60gstg0",
         "name": "太和",
         "norm": "孝文帝"
