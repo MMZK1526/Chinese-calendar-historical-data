@@ -1337,7 +1337,9 @@
     },
     {
         "dynasty": "北魏",
-        "emperors": [],
+        "emperors": [
+            "孝明帝"
+        ],
         "eraId": "era_01h530atrjeberkht18zm4g6bb",
         "name": "延昌",
         "norm": "宣武帝"
@@ -1372,7 +1374,10 @@
     },
     {
         "dynasty": "北魏",
-        "emperors": [],
+        "emperors": [
+            "幼主",
+            "孝莊帝"
+        ],
         "eraId": "era_01h530atrjebessphhd6cjxgyn",
         "name": "武泰",
         "norm": "孝明帝"
