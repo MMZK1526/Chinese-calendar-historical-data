@@ -1440,10 +1440,26 @@
     },
     {
         "dynasty": "西魏",
-        "emperors": [],
+        "emperors": [
+            "廢帝"
+        ],
         "eraId": "era_01h530atrjebf840n9fy60ng82",
         "name": "大統",
         "norm": "文帝"
+    },
+    {
+        "dynasty": "西魏",
+        "emperors": [],
+        "eraId": "era_01h9tfxxbae2jt3hxp5xbcgsav",
+        "name": "",
+        "norm": "廢帝"
+    },
+    {
+        "dynasty": "西魏",
+        "emperors": [],
+        "eraId": "era_01h9tfxxbae2jtc7dhs88sc8an",
+        "name": "",
+        "norm": "恭帝"
     },
     {
         "dynasty": "東魏",
