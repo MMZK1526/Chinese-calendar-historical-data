@@ -1491,7 +1491,9 @@
     },
     {
         "dynasty": "北齊",
-        "emperors": [],
+        "emperors": [
+            "廢帝"
+        ],
         "eraId": "era_01h530atrjebf9agdbstgqnqr7",
         "name": "天保",
         "norm": "文宣帝"
