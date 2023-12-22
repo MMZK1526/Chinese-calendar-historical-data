@@ -1556,7 +1556,9 @@
     },
     {
         "dynasty": "北周",
-        "emperors": [],
+        "emperors": [
+            "武帝"
+        ],
         "eraId": "era_01h530atrjebfbjgs0vebdfk1q",
         "name": "武成",
         "norm": "明帝"
@@ -1584,14 +1586,18 @@
     },
     {
         "dynasty": "北周",
-        "emperors": [],
+        "emperors": [
+            "宣帝"
+        ],
         "eraId": "era_01h530atrjebfrhtjt8jj4nyn4",
         "name": "宣政",
         "norm": "武帝"
     },
     {
         "dynasty": "北周",
-        "emperors": [],
+        "emperors": [
+            "靜帝"
+        ],
         "eraId": "era_01h530atrjebfrzt7xhc84afr4",
         "name": "大成",
         "norm": "宣帝"
